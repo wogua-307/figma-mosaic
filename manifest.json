@@ -1,0 +1,19 @@
+{
+  "name": "Mosaic & Pixels",
+  "id": "1445354806772836013",
+  "api": "1.0.0",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}

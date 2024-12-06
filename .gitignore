@@ -1,0 +1,13 @@
+# Node
+dist/
+output-package/
+
+# Dependency directory
+node_modules/
+
+# Ignore local or CI ".npmrc"
+.npmrc
+
+# Ignore folder of file with `-gitignore`
+**/*-gitignore/**
+**/*-gitignore*
